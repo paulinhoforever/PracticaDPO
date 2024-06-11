@@ -1,0 +1,125 @@
+[
+  {
+    "name": "as",
+    "description": "a",
+    "year_of_foundation": 1234,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": [
+      {
+        "name": "Iphone",
+        "brand": "Apple",
+        "mrp": 999.0,
+        "category": "GENERAL",
+        "price": 3.5,
+        "id": 1
+      }
+    ]
+  },
+  {
+    "name": "Asus",
+    "description": "Informatica general",
+    "year_of_foundation": 1898,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": [
+      {
+        "name": "Labial",
+        "brand": "Carmex",
+        "mrp": 22.0,
+        "category": "GENERAL",
+        "price": 1.0,
+        "id": 4
+      },
+      {
+        "name": "Iphone",
+        "brand": "Apple",
+        "mrp": 999.0,
+        "category": "GENERAL",
+        "price": 300.0,
+        "id": 1
+      },
+      {
+        "name": "Landcaster",
+        "brand": "Range Rover",
+        "mrp": 19999.0,
+        "category": "GENERAL",
+        "price": 5000.0,
+        "id": 3
+      },
+      {
+        "name": "Lapiz",
+        "brand": "Stadler",
+        "mrp": 34.0,
+        "category": "GENERAL",
+        "price": 2.0,
+        "id": 2
+      }
+    ]
+  },
+  {
+    "name": "Drogueria",
+    "description": "Vende productos de limpieza",
+    "year_of_foundation": 2001,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": []
+  },
+  {
+    "name": "adsfdfa",
+    "description": "toni",
+    "year_of_foundation": -23,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": []
+  },
+  {
+    "name": "Twenties",
+    "description": "Luis borracho",
+    "year_of_foundation": 2000,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": []
+  },
+  {
+    "name": "Tifani",
+    "description": "toni",
+    "year_of_foundation": -23,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": []
+  },
+  {
+    "name": "Sony",
+    "description": "Vende consolas",
+    "year_of_foundation": 2000,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": []
+  },
+  {
+    "name": "Marduk",
+    "description": "toni",
+    "year_of_foundation": 90,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": [
+      {
+        "name": "Iphone",
+        "brand": "Apple",
+        "mrp": 999.0,
+        "category": "GENERAL",
+        "price": 2.0,
+        "id": 1
+      }
+    ]
+  },
+  {
+    "name": "Benq",
+    "description": "vende pantallas de ordernador",
+    "year_of_foundation": 2001,
+    "earnings": 0.0,
+    "category": "Maximum Benefits",
+    "catalogue": []
+  }
+]

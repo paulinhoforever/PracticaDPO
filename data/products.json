@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Iphone",
+    "brand": "Apple",
+    "mrp": 999.0,
+    "category": "GENERAL",
+    "price": 0.0,
+    "id": 1,
+    "reviews": [
+      "3* suuuu"
+    ]
+  },
+  {
+    "name": "Lapiz",
+    "brand": "Stadler",
+    "mrp": 34.0,
+    "category": "GENERAL",
+    "price": 0.0,
+    "id": 2
+  },
+  {
+    "name": "Landcaster",
+    "brand": "Range Rover",
+    "mrp": 19999.0,
+    "category": "GENERAL",
+    "price": 0.0,
+    "id": 3
+  },
+  {
+    "name": "Labial",
+    "brand": "Carmex",
+    "mrp": 22.0,
+    "category": "GENERAL",
+    "price": 0.0,
+    "id": 4,
+    "reviews": [
+      "3* toni",
+      "4* basura",
+      "1* toni",
+      "4* manolo"
+    ]
+  }
+]
