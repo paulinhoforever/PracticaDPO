@@ -36,5 +36,7 @@ public class Main {
             Controller controller = new Controller(managerUI, productsManager, storeManager, cartManager);
 
             controller.run();
+            //hola
+
     }
 }
